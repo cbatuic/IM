@@ -1,2 +1,2 @@
-# IM
+# IM Repo
 Information Management
