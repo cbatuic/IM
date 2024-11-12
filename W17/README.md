@@ -1,7 +1,13 @@
 # IM Finals Demo
 This demo demonstrates how to use Java to perform SQL JOIN operations on a MySQL database and display the resulting data in a JTable for easy visualization and interaction.
 
+### Preview
+
 ![demo](./demo.png)
+
+### ERD
+
+![erd](./erd.png)
 
 ```sql
 SELECT s.first_name, s.last_name, s.email, c.course_name, e.enrollment_date
