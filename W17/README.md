@@ -16,3 +16,10 @@ JOIN enrollments e ON s.id = e.student_id
 JOIN courses c ON e.course_id = c.id
 ORDER BY s.last_name, c.course_name;
 ```
+
+### OOP Design: MVVM (Model-View-ViewModel)
+
+* The Model is the data and logic layer.
+* The View is what the user sees.
+* The ViewModel binds the two together, managing the data and logic for the View without directly touching the UI.
+
