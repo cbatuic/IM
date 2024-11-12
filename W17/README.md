@@ -23,3 +23,6 @@ ORDER BY s.last_name, c.course_name;
 * The View is what the user sees.
 * The ViewModel binds the two together, managing the data and logic for the View without directly touching the UI.
 
+### Challenge
+- [ ] **C1**. it should click the Courses button and display the courses details in a JTable.
+- [ ] **C2**. it should click the Enrollment button and dsiplay the enrollment details in a JTable.
